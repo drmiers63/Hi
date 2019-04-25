@@ -6,6 +6,9 @@
 // Description : Hello World in C++, Ansi-style
 // Unknown     : This is for Git
 //============================================================================
+
+// comment this out to test the OpenCV library. Otherwise, use
+// this to experiment with threads.
 #if 0
 #include <iostream>
 #include <mutex>
