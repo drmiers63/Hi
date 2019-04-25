@@ -16,6 +16,8 @@
 #include <thread>
 #include "mingw.thread.h"
 
+// The Issue says that it should include blah blah nah, so 
+// here it is.
 
 void thread_function()
 {
